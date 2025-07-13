@@ -41,12 +41,12 @@
       ]
     },
     {
-      "company": "Global Arts in Medicine Fellowshio",
-      "position": "Data Analyst",
-      "url": "https://artsinmedicinefellowship.org/",
-      "start_date": "05/12/2022",
-      "end_date": "05/03/2025",
-      "summary": "Evaluation of fellowship activities using feedback forms to ensure fellowship goals are met",
+      "company": "HackBio",
+      "position": "Bioinformatics Intern",
+      "url": "https://thehackbio.com/",
+      "start_date": "05/03/2024",
+      "end_date": "15/05/2024",
+      "summary": "**Evaluation of fellowship activities using feedback forms to ensure fellowship goals are met",
       "highlights": [
         "Analyses of registration data",
         "Evaluation of fellowship sessions",
@@ -57,36 +57,36 @@
   "projects": [
     {
       "title": "Disease prediction model",
-      "summary": "Short summary about my first project",
+      "summary": "A machine learning-powered web app that predicts diseases based on user-inputted symptoms. Built with Streamlit, it provides diagnosis suggestions, precautionary advice, and generates a downloadable report for users",
       "url": "https://disease-symptom-prediction-kqpnytmyfqmmtbjyxlvkcy.streamlit.app/",
       "highlights": [
-        "First Highlight of Project One",
-        "Second Highlight of Project One",
-        "Third Highlight of Project One"
+        "Data collection on disease symptoms, severity, description, and precautions ",
+        "Data transformatio and feature extraction",
+        "Model building, optimization and web upload"
       ],
       "images": [
         {
-          "img_path": "https://picsum.photos/600/338?random=1",
-          "caption": "Image Caption 1"
+          "img_path": "portfolio_media/DDPM_1.png",
+          "caption": "Landing page"
         },
         {
-          "img_path": "https://picsum.photos/600/338?random=2",
-          "caption": "Image Caption 2"
+          "img_path": "portfolio_media/DDPM_2.png",
+          "caption": "Prediction"
         },
         {
-          "img_path": "https://picsum.photos/600/338?random=3",
-          "caption": "Image Caption 3"
+          "img_path": "portfolio_media/DDPM_3.png",
+          "caption": "Dowloaded report"
         }
       ]
     },
     {
-      "title": "My Second Project",
-      "summary": "Short summary about my second project",
-      "url": "https://sample.com",
+      "title": "Analysis of Nigerian Food Prices",
+      "summary": "developed a machine learning-powered web app that predicts prices of food items based on user-inputted data. Built with Streamlit, it ",
+      "url": "https://thebluezayn-analysis-of-nigerian-food-prices-app-gzo2up.streamlitapp.com/",
       "highlights": [
-        "First Highlight of Project Two",
-        "Second Highlight of Project Two",
-        "Third Highlight of Project Two"
+        "Data collection and cleaning",
+        "Data analysis and visualization",
+        "Web deployment and analysis reporting"
       ],
       "images": [
         {
@@ -106,16 +106,16 @@
   ],
   "volunteer_experience": [
     {
-      "organization": "Latest Organization",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
+      "organization": "Global Arts in Medicine Fellowshio",
+      "position": "Data Analyst",
+      "url": "https://artsinmedicinefellowship.org/",
+      "start_date": "05/12/2022",
       "end_date": "Present",
-      "summary": "Short summary about present volunteer work",
+      "summary": "Evaluation of fellowship activities using feedback forms to ensure fellowship goals are met",
       "highlights": [
-        "First Duty of Current Organization",
-        "Second Duty of Current Organization",
-        "Third Duty of Current Organization"
+        "Analyses of registration data",
+        "Evaluation of fellowship sessions",
+        "Reporting findings of analysis"
       ]
     },
     {
@@ -134,33 +134,22 @@
   ],
   "education": [
     {
-      "institution": "Institution One",
-      "location": "Institution One Location",
-      "url": "https://sample.com",
+      "institution": "University of Lagos",
+      "location": "Lagos, Nigeria",
+      "url": "https://unilag.edu.ng/",
       "degrees": [
-        "Master of Science in Computer Science",
-        "Minor in Mathematics"
+        "Bachelor of Pharmacy (BPharm)"
       ],
-      "honors": ["Outstanding Student Award", "Dean's List"],
-      "gpa_cumulative": "3.5",
-      "gpa_major": "4.0",
-      "graduation_date": "01/01/2005"
-    },
-    {
-      "institution": "Institution Two",
-      "location": "Institution Two Location",
-      "url": "https://sample.com",
-      "degrees": ["Bachelor of Science in Physics"],
-      "honors": ["Scholarship Recipient"],
-      "gpa_cumulative": "3.2",
-      "gpa_major": "3.9",
-      "graduation_date": "01/01/2000"
-    }
-  ],
+      "honors": ["Scholarship Recipient - Unilag Honours list for Pharmacy "],
+      "CGPA": "4.76",
+      "GPA": "5.0",
+      "graduation_date": "27/11/2024"
+    }],
+
   "skills": [
     {
-      "name": "My First Skill",
-      "proficiency": 100,
+      "name": "Data analysis with python",
+      "proficiency": 80,
       "proficiency_label": "Proficiency Level"
     },
     {
@@ -203,22 +192,7 @@
     {
       "language": "English",
       "fluency": "Native speaker"
-    },
-    {
-      "language": "American Sign Language",
-      "fluency": "Professional Working Proficiency"
     }
-  ],
-  "references": [
-    {
-      "name": "Person One",
-      "relation": "Previous Boss",
-      "reference": "Some nice things that Person One said about you, your work ethic, and how you provided value to their team."
-    },
-    {
-      "name": "Person Two",
-      "relation": "Previous Coworker",
-      "reference": "More kind things that Person Two said about you, what it was like working with you, and things you've accomplished."
-    }
+
   ]
 }
