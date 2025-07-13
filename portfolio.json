@@ -81,7 +81,7 @@
     },
     {
       "title": "Analysis of Nigerian Food Prices",
-      "summary": "developed a machine learning-powered web app that predicts prices of food items based on user-inputted data. Built with Streamlit, it ",
+      "summary": "developed a machine learning-powered web app that predicts prices of food items based on user-inputted data. Built with Streamlit, it gives data on food inflation ",
       "url": "https://thebluezayn-analysis-of-nigerian-food-prices-app-gzo2up.streamlitapp.com/",
       "highlights": [
         "Data collection and cleaning",
@@ -90,23 +90,23 @@
       ],
       "images": [
         {
-          "img_path": "https://picsum.photos/600/338?random=4",
-          "caption": "Image Caption 4"
+          "img_path": "portfolio_media/ANFP_1.png",
+          "caption": "Landing page"
         },
         {
-          "img_path": "https://picsum.photos/600/338?random=5",
-          "caption": "Image Caption 5"
+          "img_path": "portfolio_media/beans.png",
+          "caption": "Food item prices"
         },
         {
-          "img_path": "https://picsum.photos/600/338?random=6",
-          "caption": "Image Caption 6"
+          "img_path": "portfolio_media/state.png",
+          "caption": "Price compariosn"
         }
       ]
     }
   ],
   "volunteer_experience": [
     {
-      "organization": "Global Arts in Medicine Fellowshio",
+      "organization": "Global Arts in Medicine Fellowship",
       "position": "Data Analyst",
       "url": "https://artsinmedicinefellowship.org/",
       "start_date": "05/12/2022",
@@ -138,7 +138,7 @@
       "location": "Lagos, Nigeria",
       "url": "https://unilag.edu.ng/",
       "degrees": [
-        "Bachelor of Pharmacy (BPharm)"
+        "Bachelor of Pharmacy (Distinction)"
       ],
       "honors": ["Scholarship Recipient - Unilag Honours list for Pharmacy "],
       "CGPA": "4.76",
