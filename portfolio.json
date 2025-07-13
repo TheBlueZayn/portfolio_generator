@@ -46,7 +46,7 @@
       "url": "https://thehackbio.com/",
       "start_date": "05/03/2024",
       "end_date": "15/05/2024",
-      "summary": "**Evaluation of fellowship activities using feedback forms to ensure fellowship goals are met",
+      "summary": "Evaluation of fellowship activities using feedback forms to ensure fellowship goals are met",
       "highlights": [
         "Analyses of registration data",
         "Evaluation of fellowship sessions",
@@ -156,36 +156,6 @@
       "name": "My Second Skill",
       "proficiency": 80,
       "proficiency_label": "Proficiency Level"
-    }
-  ],
-  "interests": [
-    {
-      "name": "My First Hobby",
-      "summary": "Short summary about my first Hobby",
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=7",
-          "caption": "Image Caption 7"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=8",
-          "caption": "Image Caption 8"
-        }
-      ]
-    },
-    {
-      "name": "My Second Hobby",
-      "summary": "Short summary about my second hobby",
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=9",
-          "caption": "Image Caption 9"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=10",
-          "caption": "Image Caption 10"
-        }
-      ]
     }
   ],
   "languages": [
