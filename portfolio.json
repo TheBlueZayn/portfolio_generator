@@ -4,10 +4,10 @@
   "image_path": "img/default-image.png",
   "contact": {
     "email": "zaynabmodupe@gmail.com",
-    "phone": "(+234)7082456143",
+    "phone": "(+234) 7082456143",
     "location": "Lagos, Nigeria"
   },
-  "summary": "A short summary of who you are, your background, experience, and interests to give visitors a quick introduction to you.",
+  "summary": "Pharmacist passionate about data science, bioinformatics, and AI-driven healthcare. I build tools for disease prediction and genomic data analysis to advance precision medicine.",
   "base_url": "127.0.0.1:5500",
   "social_links": [
     {
@@ -21,44 +21,44 @@
       "svg_path": "img/linkedin.svg"
     },
     {
-      "label": "Second Social",
-      "url": "https://sample.com",
-      "svg_path": "img/github.svg"
+      "label": "Medium",
+      "url": "https://medium.com/@TheBlueZayn",
+      "svg_path": "img/medium.svg"
     }
   ],
   "work_experience": [
     {
-      "company": "Latest Job",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
+      "company": "OneDrug",
+      "position": "Biomedical Research Intern",
+      "url": "https://www.onedrug.co/",
+      "start_date": "03/04/2025",
       "end_date": "Present",
       "summary": "Short summary about present job and what the position entails",
       "highlights": [
-        "First Duty of Current Job",
-        "Second Duty of Current Job",
-        "Third Duty of Current Job"
+        "Data Extraction from literature",
+        "Data Cleaning and Feature extraction",
+        "Model building and optimization"
       ]
     },
     {
-      "company": "Previous Job",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
-      "summary": "Short summary about previous job and what that position entailed",
+      "company": "Global Arts in Medicine Fellowshio",
+      "position": "Data Analyst",
+      "url": "https://artsinmedicinefellowship.org/",
+      "start_date": "05/12/2022",
+      "end_date": "05/03/2025",
+      "summary": "Evaluation of fellowship activities using feedback forms to ensure fellowship goals are met",
       "highlights": [
-        "First Duty of Previous Job",
-        "Second Duty of Previous Job",
-        "Third Duty of Previous Job"
+        "Analyses of registration data",
+        "Evaluation of fellowship sessions",
+        "Reporting findings of analysis"
       ]
     }
   ],
   "projects": [
     {
-      "title": "My First Project",
+      "title": "Disease prediction model",
       "summary": "Short summary about my first project",
-      "url": "https://sample.com",
+      "url": "https://disease-symptom-prediction-kqpnytmyfqmmtbjyxlvkcy.streamlit.app/",
       "highlights": [
         "First Highlight of Project One",
         "Second Highlight of Project One",
